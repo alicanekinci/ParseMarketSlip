@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/bin/Debug/net7.0/ParseMarketSlip.Application
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/bin/Debug/net7.0/ParseMarketSlip.Application.deps.json
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/bin/Debug/net7.0/ParseMarketSlip.Application.runtimeconfig.json
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/bin/Debug/net7.0/ParseMarketSlip.Application.dll
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/bin/Debug/net7.0/ParseMarketSlip.Application.pdb
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.dll
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/refint/ParseMarketSlip.Application.dll
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.pdb
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ParseMarketSlip.Application.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ParseMarketSlip/ParseMarketSlip.Application/obj/Debug/net7.0/ref/ParseMarketSlip.Application.dll
