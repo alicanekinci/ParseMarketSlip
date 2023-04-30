@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace ParseMarketSlip.Application.Models;
 
 public class BoundingPoly
